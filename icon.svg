@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="96" fill="#0D0F14"/>
+  <path d="M0 390L512 120V512H0V390Z" fill="#141821"/>
+  <rect x="24" y="24" width="464" height="464" rx="76" stroke="#283042" stroke-width="4"/>
+  <!-- Tournament bracket lines -->
+  <path d="M96 144H172V208H96" stroke="#38BDF8" stroke-width="18" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M96 304H172V368H96" stroke="#38BDF8" stroke-width="18" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M172 176H244V336H172" stroke="#F59E0B" stroke-width="20" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M244 256H336" stroke="#F59E0B" stroke-width="22" stroke-linecap="square"/>
+  <!-- Championship diamond & slash -->
+  <path d="M350 184L426 256L350 328L274 256L350 184Z" fill="#E11D48"/>
+  <path d="M350 206L404 256L350 306L296 256L350 206Z" fill="#0D0F14"/>
+  <path d="M350 226L382 256L350 286L318 256L350 226Z" fill="#FBBF24"/>
+  <!-- Corner accent bars -->
+  <rect x="88" y="88" width="64" height="12" fill="#F59E0B"/>
+  <rect x="360" y="412" width="64" height="12" fill="#E11D48"/>
+</svg>
